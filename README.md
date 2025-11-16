@@ -1,4 +1,4 @@
-# 🧪 ChemSnap - Assistente de Química com IA
+# 🧪 LabSnap - Assistente de Química com IA
 
 Clone do PhotoMath especializado em **Química**. Digitalize problemas químicos impressos ou manuscritos usando a câmera, ou use a calculadora científica integrada. O app decompõe cada problema em passos simples com explicações detalhadas.
 
